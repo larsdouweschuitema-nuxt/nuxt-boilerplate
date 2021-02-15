@@ -1,5 +1,6 @@
 {
-  "name": "@larsdouweschuitema-nuxt/nuxt-config-boilerplate",
+  "name": "@larsdouweschuitema/nuxt-config-boilerplate",
+  "description": "Nuxt performanet barebone boilerplate",
   "version": "1.0.0",
   "scripts": {
     "dev": "nuxt",
