@@ -1,7 +1,7 @@
 {
   "name": "@larsdouweschuitema/nuxt-boilerplate",
   "description": "Performant and reusable Nuxt barebone boilerplate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/larsdouweschuitema-nuxt/nuxt-boilerplate.git"
@@ -29,7 +29,6 @@
   },
   "devDependencies": {
     "@nuxt/types": "^2.15.0",
-    "@nuxt/typescript-build": "^2.0.4",
-    "@nuxtjs/pwa": "^3.3.5"
+    "@nuxt/typescript-build": "^2.0.4"
   }
 }
