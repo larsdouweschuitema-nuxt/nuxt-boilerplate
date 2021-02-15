@@ -2,6 +2,9 @@
   <h1>Performant and reusable Nuxt barebone boilerplate</h1>
 </div>
 
+## Why?
+Generating or manually installing a Nuxt application won't give you a perfect Google Lighthouse score by default and you might be asking yourself: How do I get a perfect score? We got you covered.
+
 ## Table of contents
 
 - [Prerequisites](#prerequisites)
