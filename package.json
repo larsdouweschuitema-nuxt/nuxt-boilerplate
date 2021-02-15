@@ -1,7 +1,23 @@
 {
   "name": "@larsdouweschuitema/nuxt-boilerplate",
   "description": "Performant and reusable Nuxt barebone boilerplate",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsdouweschuitema-nuxt/nuxt-boilerplate.git"
+  },
+  "keywords": [
+    "nuxt",
+    "vue",
+    "boilerplate",
+    "typescript"
+  ],
+  "author": "Lars Douwe Schuitema",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larsdouweschuitema-nuxt/nuxt-boilerplate/issues"
+  },
+  "homepage": "https://github.com/larsdouweschuitema-nuxt/nuxt-boilerplate/blob/main/README.md",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
