@@ -1,3 +1,35 @@
+# Dependencies
 node_modules
-.nuxt
+
+# Other
+.nuxt*
+
+# Service worker
 sw.*
+
+# Only keep package-lock.json in the root
+package-lock.json
+*/**/yarn.lock
+
+# Logs
+*.log
+
+# Dist folders
+dist
+
+# VSCode
+.vscode
+
+# Intellij idea
+*.iml
+.idea
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Coverage reports
+coverage
+*.lcov
+.nyc_output
